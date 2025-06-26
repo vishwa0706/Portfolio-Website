@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+# Anish Kumar Sinha - Portfolio Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my personal portfolio website, showcasing my skills and projects as a UI/UX Designer, Front-End Developer & Thinker. This platform serves as a central hub to explore my work, learn about my professional journey, and get in touch.
 
-## Available Scripts
+## Live Demo
 
-In the project directory, you can run:
+[Link to your published website here]
+*(Once deployed, replace this placeholder with your Netlify/Vercel/GitHub Pages URL)*
 
-### `npm start`
+## Project Overview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This responsive portfolio website is built to highlight my expertise in crafting engaging user experiences and developing robust web applications. It features dedicated sections for:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* **Home:** A welcoming introduction to my professional persona.
+* **About:** Details about my background and passion for design and development.
+* **Resume:** (Placeholder for future resume display or link)
+* **Skills:** (Placeholder for skills showcase)
+* **Projects:** A gallery of my key projects with descriptions and links.
+* **Contact:** A form to get in touch for collaborations or inquiries.
 
-### `npm test`
+## Technologies Used
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* **React.js:** A JavaScript library for building user interfaces.
+* **HTML5:** For structuring the web content.
+* **CSS3 (with CSS Modules):** For styling, ensuring component-scoped and modular styles.
+* **Bootstrap 5:** A popular CSS framework for responsive design and UI components.
+* **JavaScript (ES6+):** For interactive functionalities.
 
-### `npm run build`
+## Features
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* **Responsive Design:** Optimized for seamless viewing across various devices (desktops, tablets, and mobile phones).
+* **Modern UI:** Clean and intuitive user interface adhering to best design practices.
+* **Component-Based Architecture:** Built with reusable React components for maintainability and scalability.
+* **Interactive Navigation:** Smooth scrolling to different sections.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Getting Started
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+To get a copy of this project up and running on your local machine for development and testing purposes, follow these steps.
 
-### `npm run eject`
+### Prerequisites
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+You need to have Node.js and npm (or Yarn) installed on your system.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* [Node.js (includes npm)](https://nodejs.org/en/download/)
+* [Yarn (Optional)](https://yarnpkg.com/en/docs/install)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Installation
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/vishwa0706/Portfolio-Website.git](https://github.com/vishwa0706/Portfolio-Website.git)
+    ```
+    *(Note: This is the URL from your GitHub repo. If you rename your repo on GitHub, update this link.)*
+2.  **Navigate into the project directory:**
+    ```bash
+    cd portfolio-website
+    ```
+3.  **Install the dependencies:**
+    ```bash
+    npm install
+    # or if you use yarn
+    # yarn install
+    ```
 
-## Learn More
+### Running the Project
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+To start the development server:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```bash
+npm start
+# or
+# yarn start
