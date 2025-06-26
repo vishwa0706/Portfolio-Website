@@ -1,0 +1,9 @@
+/* Contact.module.css */
+.contactSection {
+  background-color: #f8f9fa; /* Example: Match Figma's background */
+}
+
+/* Add styles for form elements if needed to match Figma */
+.contactSection .form-control {
+  border-radius: 0.5rem;
+}
